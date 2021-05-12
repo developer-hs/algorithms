@@ -12,3 +12,8 @@ for i in range(num):
     answer = factorial(m) // (factorial(n) * factorial(m-n))
 
     print(answer)
+
+# 3
+# 2 2       1
+# 1 5       5
+# 13 29     67863915
