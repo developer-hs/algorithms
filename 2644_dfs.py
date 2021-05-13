@@ -15,6 +15,8 @@ for _ in range(num):
 answer = 0
 break_sw = False
 
+print(matrix)
+
 
 def dfs(start, visited):
     global answer, break_sw
